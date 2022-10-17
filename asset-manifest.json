@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cozastore/static/css/main.db5e0e3d.css",
+    "main.js": "/cozastore/static/js/main.cdeb6187.js",
+    "index.html": "/cozastore/index.html",
+    "main.db5e0e3d.css.map": "/cozastore/static/css/main.db5e0e3d.css.map",
+    "main.cdeb6187.js.map": "/cozastore/static/js/main.cdeb6187.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db5e0e3d.css",
+    "static/js/main.cdeb6187.js"
+  ]
+}
