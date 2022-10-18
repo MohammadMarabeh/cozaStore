@@ -5,6 +5,7 @@ import Navbar from './navbar';
 const Slide = () => {
   return (
     <section className='section-slide'>
+      
       <div className='main-section'>
          <Navbar />
          <MainPageText 
