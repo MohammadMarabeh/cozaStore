@@ -52,3 +52,9 @@
 .right-top-bar a:hover{
    color: rgb(85, 147, 168);
 }
+
+@media (max-width: 992px){
+   .top-bar{
+      display: none;
+   }
+}

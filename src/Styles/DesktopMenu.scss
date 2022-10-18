@@ -42,8 +42,28 @@ ul, li {
 }
 .label1 {
    position: relative;
+   
 }
-
+.feat{
+   border-style: none;
+   background: none;
+   font-family: 'Poppins', sans-serif;
+   transition: .4s;
+}
+.feat::after{
+   content: "HOT";
+   position: absolute;
+   top: 10%;
+   left: 60%;
+   font-size: 9px;
+   color: white;
+   padding: .2px 7px;
+   background-color: rgb(190, 94, 110);
+   border-radius: 7px;
+}
+.feat:hover{
+   color: rgb(85, 147, 168);
+}
 @media screen and (max-width: 992px) {
    .menu-desktop{
      display: none;
