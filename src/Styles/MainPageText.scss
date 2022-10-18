@@ -1,0 +1,51 @@
+.main-page-text{
+   width: 50%;
+   
+   position: absolute;
+   top: 40%;
+   left: 14%;
+   
+}
+.text1{
+   font-family: 'Poppins', sans-serif;
+   font-size: 25px;
+   line-height: 1.2857;
+   color: #333;
+   
+}
+.text2{
+   font-family: PlayfairDisplay-Bold;
+   font-size: 35px;
+   line-height: 1.1;
+   text-transform: uppercase;
+   color: #333;
+   padding: 1% 0;
+}
+
+.shop-now{
+   line-height: 1.466667;
+   font-size: 18px;
+   max-width: 150px;
+   height: 46px;
+   background-color: rgb(85, 147, 168);
+   border-radius: 23px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   transition: .5s;
+}
+.shop-now a{
+   color: white;
+   text-decoration: none;
+   
+   
+   font-family: 'Poppins', sans-serif;
+   font-weight: 900;
+   text-transform: uppercase;
+   padding: 1rem;
+   
+}
+
+.shop-now:hover{
+   background-color: #333;
+}
