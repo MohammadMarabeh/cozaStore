@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cozastore/static/css/main.c6945312.css",
+    "main.css": "/cozastore/static/css/main.cbf580e7.css",
     "main.js": "/cozastore/static/js/main.0d566983.js",
     "index.html": "/cozastore/index.html",
-    "main.c6945312.css.map": "/cozastore/static/css/main.c6945312.css.map",
+    "main.cbf580e7.css.map": "/cozastore/static/css/main.cbf580e7.css.map",
     "main.0d566983.js.map": "/cozastore/static/js/main.0d566983.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6945312.css",
+    "static/css/main.cbf580e7.css",
     "static/js/main.0d566983.js"
   ]
 }
