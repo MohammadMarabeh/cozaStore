@@ -9,7 +9,7 @@ const Slide = () => {
       <div className='main-section'>
          <Navbar />
          <MainPageText 
-          Collection="Men Collection 2022"
+          Collection="Men Collection 2023"
           Type="NEW ARRIVALS"
          />
       </div>
