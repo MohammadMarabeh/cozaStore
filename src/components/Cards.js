@@ -1,6 +1,6 @@
 import React from 'react';
 import '../Styles/Cards.scss';
-const Cards = ({ imgURL, Collection, Info}) => {
+const Cards = ({ imgURL, Collection, Info }) => {
   return (
    <div className='col-md-6 col-xl-4 p-b-30 m-lr-auto'>
       <div className='block1 wrap-pic-w'>

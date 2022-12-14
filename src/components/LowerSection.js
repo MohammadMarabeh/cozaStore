@@ -12,7 +12,7 @@ const LowerSection = () => {
                Info="Spring 2022"
             />
             <Cards 
-               imgURL="https://preview.colorlib.com/theme/cozastore/images/xbanner-02.jpg.pagespeed.ic.MQuZq6F18q.webp"
+               imgURL="https://preview.colorlib.com/theme/cozastore/images/banner-02.jpg.webp"
                Collection="Men"
                Info="Spring 2022"
             />
